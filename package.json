@@ -1,0 +1,20 @@
+{
+  "name": "fcc-timestamp-microservice-challenge",
+  "description": "FreeCodeCamp Timestamp Microservice API challenge",
+  "licence": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "moment": "^2.20.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aivarsliepa/fcc-timestamp-microservice-api"
+  }
+}
